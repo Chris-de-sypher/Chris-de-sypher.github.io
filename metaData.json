@@ -1,0 +1,9 @@
+{
+  "name": "Kallo Token",
+  "symbol": "KALLO",
+  "uri": "https://raw.githubusercontent.com/your-username/your-repo/main/token-metadata.json",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
